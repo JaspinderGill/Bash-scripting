@@ -1,0 +1,1 @@
+#shell is an interface between the user and kernel, it gets starts when the user logs in and starts the terminal
